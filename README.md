@@ -1,2 +1,2 @@
 # tanvesh-11.github.io
-# tanvesh-11.github.io
+Inspired by brittanychiang.com
